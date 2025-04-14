@@ -1,6 +1,6 @@
 ## Hi there 👋
 - 🔭 I’m currently working on Total Failure
-- 🌱 I’m currently learning C# and Java
+- 🌱 I’m currently learning C# and Java (actually same)
 - ⚡ Fun fact: Bananas are yellow
 <!--
 **Kekzuke/Kekzuke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
